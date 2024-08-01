@@ -1659,7 +1659,7 @@ h1 {
 /* Agregar más estilos según sea necesario */
 @media (max-width: 600px) {
   .titulo {
-    margin-bottom: 680px;
+    margin-bottom: 480px;
     font-size: larger;
     padding: 30px;
   }
@@ -1667,7 +1667,7 @@ h1 {
   #lyrics {
     font-size: 14px;
     letter-spacing: 3px;
-    margin-bottom: 120px;
+    margin-bottom: 130px;
   }
 
 }
